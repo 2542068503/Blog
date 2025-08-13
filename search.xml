@@ -20,28 +20,6 @@
     
     
     <entry>
-      <title>about</title>
-      <link href="/Blog/about/index.html"/>
-      <url>/Blog/about/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>分类</title>
-      <link href="/Blog/categories/index.html"/>
-      <url>/Blog/categories/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>标签</title>
       <link href="/Blog/tags/index.html"/>
       <url>/Blog/tags/index.html</url>
@@ -56,6 +34,28 @@
       <title>友情链接</title>
       <link href="/Blog/link/index.html"/>
       <url>/Blog/link/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>about</title>
+      <link href="/Blog/about/index.html"/>
+      <url>/Blog/about/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>分类</title>
+      <link href="/Blog/categories/index.html"/>
+      <url>/Blog/categories/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
